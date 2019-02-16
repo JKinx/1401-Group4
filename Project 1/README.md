@@ -1,3 +1,6 @@
+# Our Google Slides
+https://docs.google.com/presentation/d/1SzVZS4BrxnWGl-D9SIdkHNE3Z7tgXbm2maNEActze8U/edit?usp=sharing
+
 # Project 1
 1. Implement the divisive normalization equation for value as described in Louie et al. (2011). Show how this model can produce context-dependent modulation of value signals (see Figure 7).
 2. Implement the spatiotemporal normalization equation proposed by Louie et al. (2015). Describe and simulate a hypothetical experiment that would test the joint effects of spatial and temporal context on neural coding of value.
