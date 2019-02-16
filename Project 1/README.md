@@ -10,6 +10,8 @@
 
 [Problem 2](https://colab.research.google.com/drive/1RQHRe4OblhUrRrDVrg6AvWPQxUEBIU7Q)
 
+[Slides](https://docs.google.com/presentation/d/1SzVZS4BrxnWGl-D9SIdkHNE3Z7tgXbm2maNEActze8U/edit?usp=sharing)
+
 
 
 ### References
