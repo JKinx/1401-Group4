@@ -3,6 +3,15 @@ import random
 import matplotlib.pylot as plt
 from scipy.optimize import curve_fit
 
+
+# use their parameters 
+# v_in water amount in neuron class, v_out outside of cluster -> take values they set for us
+# generate firing rates - ask prof if this is kosher...
+# generate graphs
+# conduct tests
+# clean and organize code
+# write experiment results
+
 # [FILL DATA] neuronal firing rate data for each trial
 firing_high = []
 firing_med = []
@@ -55,6 +64,8 @@ def full_norm(v_in, v_out, beta, sigma):
 ################
 
 # run on all combos of firing rates, V_in, and V_out
+# R = firing_rate, outputs a and b -> then use those values to generate the graphs 
+# graph firing rates Vs. Y axis in figure 7 and equation solution with the solved for parameters
 frac_popt, fract_pocv = curve_fit(frac_model, V_in_high, V_out_high, firing_high)
 diff_popt, diff_pocv = curve_fit(diff_model, V_in_high, V_out_high, firing_high)
 s_norm_popt, s_norm_pocv = curve_fit(simple_norm, V_in_high, V_out_high, firing_high)
