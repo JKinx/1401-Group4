@@ -4,10 +4,10 @@ import matplotlib.pylot as plt
 from scipy.optimize import curve_fit
 
 # [FILL DATA] neuronal firing rate data for each trial
-firing_high = []
-firing_med = []
-firing_low = []
-firing_none = []
+firing_high = [random.gauss(0.65, 0.03) for x in range(20)]
+firing_med = [random.gauss(0.45, 0.03) for x in range(20)]
+firing_low = [random.gauss(0.3, 0.03) for x in range(20)]
+firing_none = [random.gauss(0.15, 0.03) for x in range(20)]
 
 # [FILL DATA] light data for each trial
 V_in_high = [random.gauss(260, 10) for x in range(100)]
