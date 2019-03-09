@@ -12,6 +12,7 @@
 ### Collab Files
 
 [Problem 1](https://colab.research.google.com/drive/1xnTjcXKBpgQTUcNO1-RDt9ArospQRXZZ)
+[Problem 2](https://colab.research.google.com/drive/1XCyThdkeG-hDEWq29jGMDGOzzyt8IHft)
 
 
 
