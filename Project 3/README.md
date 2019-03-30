@@ -15,6 +15,10 @@
 
 [Problem 2]()
 
+### Matlab Code and Dataset
+
+[Folder](https://drive.google.com/drive/folders/1oE-RY2yg9U2vPjvTiaMqEvxChgcnq3ga?usp=sharing)
+
 ### References
 
 - Blumenfeld, B., Preminger, S., Sagi, D., & Tsodyks, M. (2006). Dynamics of memory representations in networks with novelty-facilitated synaptic plasticity. Neuron, 52, 383–394. [link](https://www.cell.com/action/showPdf?pii=S0896-6273%2806%2900638-6)
