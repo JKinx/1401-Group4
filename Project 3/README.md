@@ -1,5 +1,7 @@
 # Our Google Slides
 
+[link](https://docs.google.com/presentation/d/1dhv4jZy-4TGV3JKAyD8CfQVLOftrVkMaATxguDFxw8Q/edit?usp=sharing)
+
 
 # Project 3
 1. Implement the novelty-facilitated Hebbian learning rule described by Blumenfeld et al. (2006) and simulate the network on gradual and mixed morph sequences (Figure 4).
@@ -9,7 +11,7 @@
 
 ### Collab Files
 
-[Problem 1]()
+[Problem 1](https://colab.research.google.com/drive/1LA_jWZn3YEaY7aPiMw67Fw_F9MlknUIy)
 
 [Problem 2]()
 
